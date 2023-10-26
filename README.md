@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤓  &nbsp; Exploring new technologies and developing software solutions.
-- 💭  &nbsp; Learning more about backend development with NodeJS.
+- &nbsp; Backend developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
